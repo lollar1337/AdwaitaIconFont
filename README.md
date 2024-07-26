@@ -20,6 +20,7 @@ It is compatible with ArchLinux in [Foot](https://github.com/DanteAlighierin/foo
 Icons are made originally by the GNOME Project [GNOME Gitlab Adwaita Icon Theme](https://gitlab.gnome.org/GNOME/adwaita-icon-theme)
 
 Some Icons were edited to work in a Font (Wifi and Cellular Icons)
+
 ![image](https://github.com/user-attachments/assets/55cfc148-7cfa-4bde-a503-7d3577a16ea7)
 
 The ttf file was created using [Fontello](https://fontello.com/)
